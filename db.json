@@ -1,0 +1,128 @@
+{
+    "kinolar" : [
+        
+    {
+      "id": "1",
+      "title": "Yuraging parchalanadi",
+      "description": "Hayotning eng og'ir sinovlari, xiyonat va ayriliq girdobida qolgan insonlarning taqdiri, mehr-oqibat va kechirimlilik rishtalari haqidagi ta'sirli drama",
+      "trailerUrl": "https://youtu.be/idkQtqKsO4c?si=mmsxk2NtvVQUpeI8",
+      "rating": 8.7,
+      "genre": "Romantic",
+      "year": 2026,
+      "duration": 169
+    },
+    {
+      "id": "2",
+      "title": "Transformes",
+      "description": "Yer yuzi uchun hal qiluvchi jang! Avtobotlar va deseptikonlar o'rtasidagi qarama-qarshilik AQSh va Sovet Ittifoqining fazoviy poygasi va Oyga qilingan ilk parvozlar siriga borib taqaladi",
+      "trailerUrl": "https://youtu.be/ET9SHYzMz_4?si=xCR2cobIDzXIRN2L",
+      "rating": 9.8,
+      "genre": "Fantastic",
+      "year": 2011,
+      "duration": 148
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "description": "Batman faces a dangerous criminal mastermind known as the Joker.",
+      "trailerUrl": "https://youtu.be/EXeTwQWrcwY?si=Wn8V-ZWVG2nRnNdh",
+      "rating": 9.0,
+      "genre": "Action",
+      "year": 2008,
+      "duration": 152
+    },
+    {
+      "id": "4",
+      "title": "50 shades of Grey",
+      "description": "Yosh talaba qiz Anastasiya Stil milliarder Kristian Grey bilan intervyu qilish uchun kelganidan so'ng uning sirli va o'ziga xos dunyosiga tushib qoladi. Filmda munosabatlar va ehtirosli sahnalar asosiy o'rinlardan birini egallaydi.",
+      "trailerUrl": "https://youtu.be/S7jE27USh68?si=aMcO-HcvU3Pqdaja",
+      "rating": 7.3,
+      "genre": "Drama",
+      "year": 2010,
+      "duration": 142
+    },
+    {
+      "id": "5",
+      "title": "Pablo Escobar",
+      "description": "Pablo Emilio Eskobar Gaviria   tarixdagi eng badavlat, qudratli va qo'rqinchli narkobaronlardan biri, Kolumbiyadagi Medellin kartelining asoschisi va rahbari",
+      "trailerUrl": "https://youtu.be/iOkL8AVAn4U?si=8uYOO0iKWN69DEqE",
+      "rating": 8.5,
+      "genre": "criminal",
+      "year": 2018,
+      "duration": 155
+    },
+    {
+      "id": "6",
+      "title": "The Matrix",
+      "description": "A hacker discovers that reality is actually a simulated world.",
+      "trailerUrl": "https://youtu.be/vKQi3bBA1y8?si=8CDdZV3gawK3hMf9",
+      "rating": 8.7,
+      "genre": "Sci-Fi",
+      "year": 1999,
+      "duration": 136
+    },
+    {
+      "id": "7",
+      "title": "Titanic",
+      "description": "A young couple falls in love aboard the legendary Titanic.",
+      "trailerUrl": "https://youtu.be/F2RnxZnubCM?si=86wdMqsTs9BQ1bLn",
+      "rating": 7.9,
+      "genre": "Romance",
+      "year": 1997,
+      "duration": 195
+    },
+    {
+      "id": "8",
+      "title": "Forrest Gump",
+      "description": "The extraordinary life journey of a simple and kind-hearted man.",
+      "trailerUrl": "https://youtu.be/XHtoD6mfo6I?si=3xOeCSc10zk2l1_J",
+      "rating": 8.8,
+      "genre": "Drama",
+      "year": 1994,
+      "duration": 142
+    },
+    {
+      "id": "9",
+      "title": "Avengers: Endgame",
+      "description": "The Avengers make one final attempt to defeat Thanos and restore the universe.",
+      "trailerUrl": "https://youtu.be/8gcRTMr-rlg?si=eucTuNzyx-YSaWR2",
+      "rating": 8.4,
+      "genre": "Action",
+      "year": 2019,
+      "duration": 181
+    },
+    {
+      "id": "10",
+      "title": "Joker",
+      "description": "A troubled man slowly transforms into the infamous Joker.",
+      "trailerUrl": "https://youtu.be/YKLX3QbKBg0?si=xe-jEYJ5uVVLUAc7",
+      "rating": 8.4,
+      "genre": "Drama",
+      "year": 2019,
+      "duration": 122
+    },
+    {
+      "id": "11",
+      "title": "Parasite",
+      "description": "A poor family becomes deeply involved with a wealthy household.",
+      "trailerUrl": "https://youtu.be/B65xZdBcnNw?si=P-nVto_SCkOhJxY1",
+      "rating": 8.5,
+      "genre": "Thriller",
+      "year": 2019,
+      "duration": 132
+    },
+    {
+      "id": "12",
+      "title": "Whiplash",
+      "description": "A young drummer pushes himself to become one of the greatest musicians.",
+      "trailerUrl": "https://youtu.be/jWQx2f-CErU?si=aHdjylTuyCQ9Xy2n",
+      "rating": 8.5,
+      "genre": "Drama",
+      "year": 2014,
+      "duration": 107
+    }
+  ]
+
+        
+    
+}
