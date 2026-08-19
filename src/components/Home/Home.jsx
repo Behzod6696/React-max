@@ -29,7 +29,7 @@ function Home() {
         </div>
 
         <div className="movie-grid">
-          {kinolar.slice(0, 6).map((kino) => (
+          {kinolar.slice(0, 8).map((kino) => (
             <MoveCard key={kino.id} move={kino} onDelete={() => {}} />
           ))}
         </div>
