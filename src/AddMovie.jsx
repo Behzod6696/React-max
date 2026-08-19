@@ -1,8 +1,6 @@
 import { useNavigate } from "react-router-dom";
-import "./KinoForm.css"
 import api from "./axios";
 import KinoForm from "./components/KinoForm/KinoForm";
-
 
 function AddMovie() {
   const navigate = useNavigate();
@@ -10,7 +8,6 @@ function AddMovie() {
   const handleAddMovie = async (movieData) => {
     try {
       await api.post("/kinolar", movieData);
-
       navigate("/catalog");
     } catch (error) {
       alert("Film qo'shishda xatolik yuz berdi");
@@ -21,11 +18,7 @@ function AddMovie() {
     <main className="container section">
       <div className="form-container">
         <h1>Yangi film qo'shish</h1>
-
-        <KinoForm
-          onSubmit={handleAddMovie}
-          buttonText="Filmni qo'shish"
-        />
+        <KinoForm onSubmit={handleAddMovie} buttonText="Filmni qo'shish" />
       </div>
     </main>
   );
