@@ -3,6 +3,7 @@ import useFetch from '../../Fetch'
 import Loading from '../Loading'
 import Error from '../Error'
 import "./Home.css"
+import { Link } from 'react-router-dom'
 
 function Home() {
     const {

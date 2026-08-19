@@ -13,7 +13,7 @@ function useFetch(url) {
                 setLoading(true)
                 setError("")
                 const respons = await axios.get(url)
-                setData(respons.data);
+                setData( respons.data);
                 
                 
             } catch(err){

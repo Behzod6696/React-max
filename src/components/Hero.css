@@ -1,0 +1,52 @@
+.detail-page {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  gap: 50px;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+}
+
+.detail-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.detail-content h1 {
+  font-size: 42px;
+  margin: 15px 0;
+}
+
+.badge {
+  background: #111827;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+
+.detail-rating {
+  font-size: 22px;
+  margin-bottom: 25px;
+}
+
+.detail-content > p {
+  line-height: 1.7;
+  margin-bottom: 30px;
+}
+
+.movie-info {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.movie-info div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.detail-actions {
+  display: flex;
+  gap: 15px;
+}

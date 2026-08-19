@@ -1,0 +1,37 @@
+.filters {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr auto;
+  gap: 15px;
+  align-items: end;
+  background: white;
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 10px;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.filter-group input,
+.filter-group select {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  outline: none;
+}
+
+.reset-btn {
+  padding: 10px 15px;
+  background: #6b7280;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.result-count {
+  margin-bottom: 20px;
+  color: #6b7280;
+}
