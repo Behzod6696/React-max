@@ -1,0 +1,55 @@
+.hero {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(
+    135deg,
+    #111827,
+    #374151
+  );
+  color: white;
+}
+
+.hero h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.hero-btn {
+  display: inline-block;
+  background: white;
+  color: #111827;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+
+
+.section {
+  padding: 50px 0;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.section-header h2 {
+  font-size: 30px;
+}
+
+
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}

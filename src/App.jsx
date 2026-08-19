@@ -2,6 +2,7 @@ import React from 'react'
 import { MoveProvaider } from './components/MovieContex'
 import { BrowserRouter } from 'react-router-dom'
 import Header from './components/Header/Header'
+import KinoForm from './components/KinoForm/KinoForm'
 
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
       <BrowserRouter>
         <MoveProvaider>
               <Header/>
-             
+            
         </MoveProvaider>
       </BrowserRouter>
     </div>
