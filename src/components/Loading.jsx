@@ -5,6 +5,7 @@ function Loading() {
     <div className='Loading'>
         <div className='loading'>
             <p>Loading...</p>
+            
         </div>
     </div>
   )
