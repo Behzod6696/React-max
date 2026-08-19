@@ -1,0 +1,43 @@
+.header{
+    background-color: #e3e7ef;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px ;
+
+}
+.container-header{
+    min-height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo{
+    font-size: 26px;
+    font-weight: bold;
+
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+
+}
+.before{
+    color: #cbd5e1;
+    transition: 0.2s;
+}
+.before:active, .aktive{
+    color: white;
+}
+.sevimli{
+    background: #374151;
+    padding: 8px 12px;
+    border-radius: 8px;
+
+}
